@@ -1,6 +1,8 @@
 Hello, welcome to the MichMesh test page.
 Our propagation server lives at bb5920b34312ed57265dd173ec5171ad
-Feel free to drop a hello on the MichMesh DG lxmf://46cc6400a9bcb61c80020a21e95b99d1
+Click to send a message to 
+
+Feel free to drop a hello on the MichMesh DG `_`[lxmf@30a7737136f61f3b6e5c3ac336e72204]`_ to join group chat.
 
 ===  status ===
 `F0FD`[status page`:/page/status.mu`]`f
